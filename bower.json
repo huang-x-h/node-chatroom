@@ -1,0 +1,14 @@
+{
+  "name": "node-chatroom",
+  "version": "0.0.0",
+  "authors": [
+    "huang.xinghui <huang.x.hui@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
